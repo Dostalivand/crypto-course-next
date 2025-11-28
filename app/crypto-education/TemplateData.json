@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "/images/course-photo-8.jpeg",
+        "title": "آموزش معاملات آپشن بیت کوین",
+        "desc": "علی اکبری",
+        "price": 1250000
+    },
+    {
+        "id": 2,
+        "image": "/images/course-photo-2.jpeg",
+        "title": "آموزش ارزهای دیجیتال بازار کریپتو",
+        "desc": "میثم سعیدنیا",
+        "price": 980000
+    },
+    {
+        "id": 3,
+        "image": "/images/course-photo-5.jpeg",
+        "title": "آموزش تشخیص نهنگ های بیت کوین",
+        "desc": "حسین جهرمی",
+        "price": 750000
+    },
+    {
+        "id": 4,
+        "image": "/images/course-photo-4.jpeg",
+        "title": "آموزش خرید و فروش بیت کوین",
+        "desc": "جواد آذری",
+        "price": 1300000
+    }
+]
