@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from 'react';
-import CoursesData from '@/app/components/LastCourses/data'
+import CoursesData from '@/app/database/data'
 import Categories from '@/app/components/Categories'
 import CourseBox from '@/app/components/CourseBox'
 

@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from "react";
-import data from "./TemplateData.json";
+import data from '@/app/database/TemplateData.json'
 import Breadcrumb from '@/app/components/Breadcrumb';
 import Footer from '@/app/components/Footer';
 import CategoryHeader from '@/app/components/CategoryHeader';
