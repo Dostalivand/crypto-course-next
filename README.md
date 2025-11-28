@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=About%20My%20Project&animation=twinkling&descAlign=50&descAlignY=50&textBg=false&fontColor=fff"/>
+</p>
 
-## Getting Started
 
-First, run the development server:
+## ⚡&nbsp; View Online
+Click Here : https://course-sales-react.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨&nbsp; Home Page
+<img src="./home.png" alt="اhome-page" style="max-width: 100%;">
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎨 Project Showcase
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+|                                                                                    Home Page                                                                                     |                                                                                   All Courses Page                                                                                   |                                                                                Courses Page                                                                                |                                                                             Courses Sale Page                                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="./home.png" title="Home Page" width="100%" crossorigin> | <img src="./all-product.png" title="All Courses Page" width="100%" crossorigin> | <img src="./product.png" title="Courses Page" width="100%" crossorigin> | <img src="./product-sale.png" title="Courses Sale Page" width="100%" crossorigin> |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 🚀&nbsp; Programming Language And Tools Used 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📘&nbsp; Description
+Website selling cryptocurrency training courses. This website is designed with React , Tailwindcss framework and Reacts libraries that can be used to create cryptocurrency products and courses.
+
+
+## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
+I would be happy to contact you and if you have any questions about my project, please ask me and I will answer as soon as possible.
+My Email Address: Dostalivand.Hosein@gmail.com
+My ID Telegram: https://t.me/hoseindav
+
+
+## ❤️&nbsp; Links
+* [GitHub](https://github.com/Dostalivand)
+* [Email](dostalivand.hosein@gmail.com)
+* [Follow on Instagram](https://instagram.com/hosein.css/)
+* [Follow on Linkedin](https://linkedin.com/in/dostalivand)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=I%20Hope%20To%20See%20You%20Again&animation=twinkling&descAlign=50&descAlignY=50&textBg=false&fontColor=fff&section=footer"/>
+</p>
