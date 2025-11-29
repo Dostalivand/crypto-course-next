@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://crypto-course-next.vercel.app/api?type=waving&height=150&color=gradient&text=About%20My%20Project&animation=twinkling&descAlign=50&descAlignY=50&textBg=false&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=About%20My%20Project&animation=twinkling&descAlign=50&descAlignY=50&textBg=false&fontColor=fff"/>
 </p>
 
 
